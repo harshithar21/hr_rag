@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+# FastAPI
+*.db
+# Data directories (excluded from git)
+data/
+# Node
+frontend/node_modules/
+frontend/dist/
+# Vite cache
+.vite/
+# OS files
+.DS_Store
+Thumbs.db
